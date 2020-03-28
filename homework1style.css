@@ -41,7 +41,7 @@ a {
 }
 /* Main List text size */
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 /* Styles for big picture */
 .hero {
@@ -84,7 +84,7 @@ p {
 /* Styles for side menu titles */
 h3 { margin-bottom: 20px;
     margin-top: 5px;
-text-align: center;
+    text-align: center;
 }
 /* Side menu pictues styles */
 .side-menu img {
@@ -116,5 +116,5 @@ text-align: center;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    font-size: 10px;
+    font-size: 16px;
 }
